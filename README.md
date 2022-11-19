@@ -10,11 +10,11 @@ takiptde kalın.
 
 <!DOCTYPE html>
 <html>
-<title>Online HTML Editor</title>
 <head>
 </head>
 <body>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white "/>
+  
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </body>
 </html>
