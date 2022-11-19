@@ -10,7 +10,6 @@ takiptde kalın.
 
 <!DOCTYPE html>
 <html>
-<title>Online HTML Editor</title>
 <head>
 </head>
 <body>
