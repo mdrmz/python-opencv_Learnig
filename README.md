@@ -8,7 +8,8 @@ https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/
 burdaki video içerkleri ile aynı şeyleri  yapacağım.
 takiptde kalın.
 
-
+<html>
 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 }" />
 <img src="{https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}" />
+<\html>
